@@ -228,13 +228,15 @@ Provides a high-level view of the applicant portfolio, the baseline payment-diff
 
 **Business use:** Helps decision-makers understand the overall risk profile before investigating individual drivers.
 
-### Dashboard 2 — Risk Driver Analysis
+### Dashboard 2 — Product preformance
 
 **Image placeholder**
 
 Save your screenshot as `images/02-risk-driver-analysis.png`.
 
 ![Risk Driver Analysis — add screenshot](images/02-risk-driver-analysis.png)
+<img width="1555" height="1012" alt="Tableau Loan Portfolio Dashboard" src="https://github.com/user-attachments/assets/741b7ae3-55e5-4e5b-af7d-87f17f5aa8c6" />
+
 
 **What it signifies**
 
@@ -250,11 +252,13 @@ Investigates which borrower characteristics and historical credit indicators are
 
 **Business use:** Helps analysts identify where additional investigation or better underwriting information may be useful. These relationships are observational and do not prove causation.
 
-### Dashboard 3 — Credit Policy Simulator
+### Dashboard 3 — Application Profile
 
 **Image placeholder**
 
 Save your screenshot as `images/03-credit-policy-simulator.png`.
+<img width="1554" height="1012" alt="Applicant Profile Loan Analytics Dashboard" src="https://github.com/user-attachments/assets/164bc971-030b-44ac-aff6-6335c452bc33" />
+
 
 ![Credit Policy Simulator — add screenshot](images/03-credit-policy-simulator.png)
 
@@ -274,11 +278,13 @@ Explores how changing risk-score thresholds can change the number of applicants 
 
 A threshold simulator is a decision-support tool, not a guarantee of future default performance. Actual implementation requires validated scores and a defined evaluation methodology.
 
-### Dashboard 4 — ₹10 Crore Investment Strategy
+### Dashboard 4 — RISK ANALYSIS
 
 **Image placeholder**
 
 Save your screenshot as `images/04-investment-allocation-strategy.png`.
+<img width="1672" height="940" alt="Loan Portfolio Risk Analysis Dashboard (1)" src="https://github.com/user-attachments/assets/bfa43ee1-3417-43ab-a05d-bb666766e18d" />
+
 
 ![Investment Allocation Strategy — add screenshot](images/04-investment-allocation-strategy.png)
 
